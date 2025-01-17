@@ -1,47 +1,33 @@
-<h1>Hi, I'm Ignitious! <br/><a href="https://github.com/IgnitiousPortfolio">Front-End Programmer</a>, <a href="https://www.linkedin.com/in/ignitious">Qualified Teacher</a>, <a href="https://www.chess.com">Chess Player</a></h1>
+Hi 👋 My name is Ignitious 
+=======================================
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Frontend Developer
+------------------
 
-- <b>Data Structures and Algorithms Practice (freeCodeCamp)</b>
-  - [Practicing DS & Algos in JavaScript](https://github.com/IgnitiousPortfolio/DSA-Practice)
-- <b>Full Stack Web App (React, NodeJS, and MongoDB)</b>
-  - [Math Gamification App](https://github.com/IgnitiousPortfolio/Math-Gamification-App)
-- <b>Web Design</b>
-  - [Portfolio Website](https://github.com/IgnitiousPortfolio/Portfolio)
-  - [Landing Page Design](https://github.com/IgnitiousPortfolio/Landing-Page-Design)
-- <b>Python</b>
-  - [Question Paper Organizer](https://github.com/IgnitiousPortfolio/Question-Paper-Organizer)
-  - [Web Scraper for Educational Content](https://github.com/IgnitiousPortfolio/Web-Scraper)
-- <b>JavaScript</b>
-  - [Sorting Algorithm Visualizer](https://github.com/IgnitiousPortfolio/Sorting-Visualizer)
-  - [Binary to Decimal Converter](https://github.com/IgnitiousPortfolio/Binary-Decimal-Converter)
+I am a frontend Developer who loves React!
 
-<h2>📺 Blog and Tutorials</h2>
-
-- [How to Start Learning Data Structures](https://www.example.com/blog/data-structures)
-- [Top 5 Front-End Development Tips for Beginners](https://www.example.com/blog/front-end-tips)
-- [Strategies for Teaching Mathematics Effectively](https://www.example.com/blog/math-teaching)
-- [Chess Tactics for Beginners](https://www.example.com/blog/chess-tactics)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Ignitious | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ignitious | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[github]: https://github.com/IgnitiousPortfolio
-[linkedin]: https://linkedin.com/in/ignitious
-
-<!--
-**IgnitiousPortfolio/IgnitiousPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Pretoria
+*   ✉️  You can contact me at [ignitious1@gmail.com](mailto:ignitious1@gmail.com)
+*   🧠  I'm learning React
+*   🤝  I'm open to collaborating on Projects
+*   ⚡  I am a Curious Cat!<a href="https://www.github.com/Ignitiousngoepe" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/Ignitiousngoepe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/Ignitiousngoepe" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Ignitiousngoepe"><img src="https://github-readme-stats.vercel.app/api?username=Ignitiousngoepe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ignitiousngoepe's GitHub stats" /></a><a
+                      href="http://www.github.com/Ignitiousngoepe"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Ignitiousngoepe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/Ignitiousngoepe"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ignitiousngoepe&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Ignitiousngoepe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignitiousngoepe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
